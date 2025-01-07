@@ -12,8 +12,8 @@
     <h1 align="center">Estudando Sobre</h1>
     <img align="center" height="30" width="40" alt="php-icon" src="php.svg">
     <img align="center" height="30" width="40" alt="js-icon" src="js.svg">
-    <img align="center" height="30" width="40" alt="js-icon" src="react.svg">
-    <img align="center" height="30" width="40" alt="js-icon" src="python.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="react.svg">
+    <img align="center" height="30" width="40" alt="python-icon" src="python.svg">
    </div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.linkedin.com/in/robert-alves-316334226/">
