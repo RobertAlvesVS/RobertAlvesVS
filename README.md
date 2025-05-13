@@ -1,4 +1,4 @@
-## Aoba, Tudo bão?!
+## Ta vendo isso aqui?! Planejo me aprimorar cada vez mais!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertAlvesVS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
