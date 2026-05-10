@@ -12,6 +12,9 @@ Desenvolvedor focado em **Python** e **APIs REST**. Gosto de resolver problemas 
 **Frontend:**
 - React
 
+**Mobile:**
+- Flutter
+
 **Outras:**
 - Git & GitHub
 - Docker (estudando)
