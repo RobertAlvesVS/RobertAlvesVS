@@ -1,22 +1,36 @@
-## Ta vendo isso aqui?! Planejo me aprimorar cada vez mais!
+# Oi! Eu sou o Robert!
+
+Desenvolvedor focado em **Python** e **APIs REST**. Gosto de resolver problemas reais através de código e estou sempre explorando novas tecnologias.
+
+## Tecnologias que uso
+
+**Backend:**
+- Python (FastAPI, SQLALchemy)
+- PostgreSQL
+- APIs REST
+
+**Frontend:**
+- React
+
+**Outras:**
+- Git & GitHub
+- Docker (estudando)
+
+## GitHub Stats
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertAlvesVS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertAlvesVS&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RobertAlvesVS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertAlvesVS&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Estudando Sobre</h1>
-    <img align="center" height="30" width="40" alt="php-icon" src="php.svg">
-    <img align="center" height="30" width="40" alt="js-icon" src="js.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="react.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="python.svg">
-   </div>
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "https://www.linkedin.com/in/robert-alves-316334226/">
-      <img width="25" src="linkedin.svg">
-    </a>
-</div>
+## Projetos em destaque
+
+Confira meus repositórios fixados abaixo para ver o que ando construindo!
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-alves-316334226/)
+
+---
+
+💡 *Sempre aprendendo, sempre construindo.*
