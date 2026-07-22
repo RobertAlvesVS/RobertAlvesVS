@@ -10,7 +10,7 @@ Desenvolvedor focado em **Python** e **APIs REST**. Gosto de resolver problemas 
 - APIs REST
 
 **Frontend:**
-- React
+- Vue.js
 
 **Mobile:**
 - Flutter
